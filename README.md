@@ -9,9 +9,9 @@
 | Dataset ID | `604684` |
 | Location | Ohio |
 | Category | Restaurants |
-| Full dataset size | 22,718 records |
-| Free sample size | 1,000 records (4.4%) |
-| Last export | 2026-04-07T17:17:38.152222+00:00 |
+| Full dataset size | 22,406 records |
+| Free sample size | 1,000 records (4.46%) |
+| Last export | 2026-04-14T22:40:57.908659+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-ohio-us-sample-604684/releases/download/sample-latest/beamstation_604684_restaurants-us-oh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
