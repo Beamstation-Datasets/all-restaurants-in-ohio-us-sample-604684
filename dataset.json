@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All restaurant listings across the state of Ohio. Filtered by the Restaurants category group, this statewide export includes verified business profiles, review analytics, competitive benchmarks, and contact details for every active listing. Refreshed weekly.",
   "config_name": "All Restaurants in Ohio, US",
-  "export_job_id": "b2813e17-694d-41fc-b2cf-9ba3b549d036",
+  "export_job_id": "2cf5001b-274f-49e2-9907-3e95afa56cb8",
   "github_org": "Beamstation-Datasets",
   "id_short": 604684,
   "location_name": "Ohio",
   "location_type": "state",
   "repo_name": "all-restaurants-in-ohio-us-sample-604684",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/604684/beamstation_604684_restaurants-us-oh_SAMPLE_DIST.csv",
-  "sample_pct": 4.99,
+  "sample_pct": 4.48,
   "sample_records": 1000,
-  "sample_sha256": "4c31336244aa014ca982d37b99d02a788645f549688fde62b4b1f1464656ada7",
-  "sample_size_bytes": 2928019,
-  "total_records": 20049,
-  "updated_at": "2026-04-22T01:49:29.406860+00:00"
+  "sample_sha256": "2d152f4a34a9d142130832f7aa3f9bac113c7c32097d5e23458384a10c987820",
+  "sample_size_bytes": 2730415,
+  "total_records": 22316,
+  "updated_at": "2026-04-29T05:14:49.869893+00:00"
 }
