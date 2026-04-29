@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b2813e17-694d-41fc-b2cf-9ba3b549d036",
+  "export_job_id": "2cf5001b-274f-49e2-9907-3e95afa56cb8",
   "id_short": 604684,
-  "published_at": "2026-04-22T07:44:09Z",
+  "published_at": "2026-04-29T07:47:44Z",
   "repo_name": "all-restaurants-in-ohio-us-sample-604684",
   "sample_asset_name": "beamstation_604684_restaurants-us-oh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/604684/beamstation_604684_restaurants-us-oh_SAMPLE_DIST.csv",
   "sample_records": 1000,
-  "sample_sha256": "4c31336244aa014ca982d37b99d02a788645f549688fde62b4b1f1464656ada7",
-  "sample_size_bytes": 2928019,
-  "total_records": 20049
+  "sample_sha256": "2d152f4a34a9d142130832f7aa3f9bac113c7c32097d5e23458384a10c987820",
+  "sample_size_bytes": 2730415,
+  "total_records": 22316
 }
